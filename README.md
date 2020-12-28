@@ -4,6 +4,8 @@ laravel开发常用的扩展包
 
 laravel-migrations-generator
 
+orangehill/iseed
+
 barryvdh/laravel-debugbar
 
 barryvdh/laravel-ide-helper
