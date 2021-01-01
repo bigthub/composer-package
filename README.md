@@ -20,3 +20,4 @@ predis/predis
 
 yajra/laravel-datatables-oracle
 
+tymon/jwt-auth
